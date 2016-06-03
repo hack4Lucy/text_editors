@@ -1,0 +1,20 @@
+## change ownership
+sudo chmod <user> <filename>
+
+## display all password
+vim /etc/passwd
+
+## to exit
+:q
+
+## insert mode
+type <i>
+
+## to get back to normal mode
+type <ESC>
+
+## to go to command line
+type <:>
+
+## to save the opened file 
+type <:w>
